@@ -14,7 +14,7 @@ if __name__ == '__main__':
             print("zip-zap")
         elif i % 5 == 0:
             print("zap")
-        elif i % 3== 0:
+        elif i % 3 == 0:
             print("zip")
         else:
             print(i)
